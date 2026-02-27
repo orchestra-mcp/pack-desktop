@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-desktop",
+    "description": "Desktop application skills for Wails and macOS integration",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["go"],
+    "contents": {
+        "skills": ["wails-desktop", "macos-integration", "native-widgets"],
+        "agents": ["platform-engineer", "widget-engineer"],
+        "hooks": []
+    },
+    "tags": ["desktop", "wails", "macos", "widgets", "native"]
+}
